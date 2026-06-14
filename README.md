@@ -22,7 +22,8 @@ class FullStackEngineer:
     def __str__(self):
         return f"{self.name}-{self.role}-Loves to Party😎"
 
-    def current_focus(self):
+    @staticmethod
+    def current_focus():
         return [
             "Building scalable backend systems",
             "Advanced System Design",
