@@ -64,43 +64,6 @@ I enjoy solving engineering challenges around:
 
 ---
 
-## Core Expertise
-
-### Backend Engineering
-
-* Python
-* Golang
-* Java
-* REST APIs
-* Backend Platform Development
-
-### Distributed Systems
-
-* Service Decomposition
-* Inter-Service Communication
-* Event-Driven Architectures
-* Asynchronous Processing
-* High Availability Systems
-* Fault-Tolerant Design
-
-### Cloud & Infrastructure
-
-* AWS
-* Kubernetes
-* Docker
-* Infrastructure Automation
-* Production Deployments
-
-### Architecture
-
-* System Design
-* Scalability Engineering
-* Reliability Engineering
-* Platform Architecture
-* Security-Focused Development
-
----
-
 ## Technology Stack
 
 ### Languages
@@ -199,45 +162,6 @@ Developing containerized applications deployed on Kubernetes and AWS infrastruct
 ### Data & AI Integrations
 
 Creating OCR pipelines, AI-powered services, data validation systems, and backend integrations that transform unstructured data into actionable workflows.
-
----
-
-## Current Interests
-
-* Large-Scale System Design
-* Kubernetes Internals
-* Distributed Messaging Systems
-* Platform Engineering
-* Reliability Engineering
-* AI Service Integration
-* High Performance Backend Systems
-
----
-
-## Areas of Expertise
-
-- Distributed Systems
-- Microservices Architecture
-- Event-Driven Systems
-- Cloud-Native Applications
-- Backend Platform Development
-- Scalability & Reliability Engineering
-- Production Operations
-- System Design
-- API Design
-- Database Optimization
-
----
-
-## Things I Enjoy Building
-
-- High-throughput APIs
-- Event-driven workflows
-- Background processing systems
-- Cloud-native microservices
-- Data validation pipelines
-- OCR and AI integrations
-- Scalable backend platforms
 
 ---
 
