@@ -1,10 +1,254 @@
-- 👋 Hi, I’m @IdntKnoWmE
-- 👀 I’m interested in Backened developement and Machine learning
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on AI projects
-- 📫 You can reach me at my email iam.jayantsharma5@gmail.com
+# Jayant Sharma
 
-<!---
-IdntKnoWmE/IdntKnoWmE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```python
+class BackendEngineer:
+    def __init__(self):
+        self.name = "Jayant Sharma"
+        self.role = "Backend Engineer"
+        self.languages = ["Python", "SQL", "Java", "JavaScript", "Golang"]
+        self.backend = ["Django", "Django REST Framework", "FastAPI"]
+        self.frontend = ["HTML", "CSS", "Bootstrap", "Tailwind", "React", "Vite"]
+        self.databases = ["PostgreSQL", "MongoDB", "Redis", "Neo4J"]
+        self.messaging = ["RabbitMQ", "Celery", "Redis Pub/Sub"]
+        self.cloud = ["AWS"]
+        self.devops = ["Docker", "Kubernetes", "Github Actions"]
+        self.interests = [
+            "Full Stack Development",
+            "Distributed Systems",
+            "System Design",
+            "Scalable Architectures",
+            "Performance Optimization"
+        ]
+
+    def current_focus(self):
+        return [
+            "Building scalable backend systems",
+            "Advanced System Design",
+            "Cloud Native Applications",
+            "Distributed Architectures"
+        ]
+```
+
+---
+
+## About Me
+
+
+### Senior Backend Engineer | Distributed Systems | Cloud-Native Platforms
+
+Building scalable, fault-tolerant, and event-driven systems for production environments.
+
+With 6+ years of experience, I specialize in designing and operating backend platforms that handle complex business workflows, asynchronous processing, high availability requirements, and cloud-scale deployments.
+
+---
+
+## Engineering Philosophy
+
+> Build reliable systems first.
+> Scale them second.
+> Optimize them continuously.
+
+I enjoy solving engineering challenges around:
+
+* Distributed Systems
+* Microservices Architecture
+* Event-Driven Platforms
+* Cloud-Native Applications
+* System Design
+* Performance Optimization
+* Reliability Engineering
+* Production Operations
+
+---
+
+## Core Expertise
+
+### Backend Engineering
+
+* Python
+* Golang
+* Java
+* REST APIs
+* Backend Platform Development
+
+### Distributed Systems
+
+* Service Decomposition
+* Inter-Service Communication
+* Event-Driven Architectures
+* Asynchronous Processing
+* High Availability Systems
+* Fault-Tolerant Design
+
+### Cloud & Infrastructure
+
+* AWS
+* Kubernetes
+* Docker
+* Infrastructure Automation
+* Production Deployments
+
+### Architecture
+
+* System Design
+* Scalability Engineering
+* Reliability Engineering
+* Platform Architecture
+* Security-Focused Development
+
+---
+
+## Technology Stack
+
+### Languages
+
+```text
+Python • Golang • Java • JavaScript
+```
+
+### Backend
+
+```text
+Django • Django REST Framework • FastAPI
+Microservices • REST APIs • Distributed Systems
+```
+
+### Frontend
+
+```text
+HTML • CSS • Bootstrap • Tailwind • React  
+```
+
+### Messaging & Event Streaming
+
+```text
+RabbitMQ
+Celery
+Redis Pub/Sub
+Event-Driven Architecture
+```
+
+### Databases
+
+```text
+PostgreSQL
+MySQL
+MongoDB
+Neo4j
+Redis
+```
+
+### Cloud & Infrastructure
+
+```text
+AWS EC2
+AWS EKS
+AWS S3
+AWS RDS
+AWS Redshift
+
+Docker
+Kubernetes
+```
+
+### Observability & DevOps
+
+```text
+CI/CD
+Monitoring
+Logging
+Performance Optimization
+Production Troubleshooting
+Git
+Bitbucket
+```
+
+### Security & Quality
+
+```text
+SonarQube
+Snyk
+Trivy
+Grype
+CloudSploit
+
+Unit Testing
+Integration Testing
+Secure Development Practices
+```
+
+---
+
+## What I Build
+
+### Scalable Backend Services
+
+Designing APIs and backend platforms that support high traffic, complex workflows, and evolving business requirements.
+
+### Event-Driven Systems
+
+Building asynchronous architectures using Kafka, RabbitMQ, Celery, and Redis to improve scalability and resilience.
+
+### Cloud-Native Applications
+
+Developing containerized applications deployed on Kubernetes and AWS infrastructure.
+
+### Data & AI Integrations
+
+Creating OCR pipelines, AI-powered services, data validation systems, and backend integrations that transform unstructured data into actionable workflows.
+
+---
+
+## Current Interests
+
+* Large-Scale System Design
+* Kubernetes Internals
+* Distributed Messaging Systems
+* Platform Engineering
+* Reliability Engineering
+* AI Service Integration
+* High Performance Backend Systems
+
+---
+
+## Areas of Expertise
+
+- Distributed Systems
+- Microservices Architecture
+- Event-Driven Systems
+- Cloud-Native Applications
+- Backend Platform Development
+- Scalability & Reliability Engineering
+- Production Operations
+- System Design
+- API Design
+- Database Optimization
+
+---
+
+## Things I Enjoy Building
+
+- High-throughput APIs
+- Event-driven workflows
+- Background processing systems
+- Cloud-native microservices
+- Data validation pipelines
+- OCR and AI integrations
+- Scalable backend platforms
+
+---
+
+## Connect
+
+📧 [iam.jayantsharma5@gmail.com]
+
+💼 LinkedIn: https://www.linkedin.com/in/jayant--sharma/
+
+---
+
+### Fun Fact
+
+Most bugs are easy to fix.
+
+Finding the actual root cause is the real engineering challenge.
+
