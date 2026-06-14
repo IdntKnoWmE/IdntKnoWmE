@@ -1,10 +1,10 @@
 # Jayant Sharma
 
 ```python
-class BackendEngineer:
+class FullStackEngineer:
     def __init__(self):
         self.name = "Jayant Sharma"
-        self.role = "Backend Engineer"
+        self.role = "Full Stack Engineer"
         self.languages = ["Python", "SQL", "Java", "JavaScript", "Golang"]
         self.backend = ["Django", "Django REST Framework", "FastAPI"]
         self.frontend = ["HTML", "CSS", "Bootstrap", "Tailwind", "React", "Vite"]
@@ -19,6 +19,8 @@ class BackendEngineer:
             "Scalable Architectures",
             "Performance Optimization"
         ]
+    def __str__(self):
+        return f"{self.name}-{self.role}-Loves to Party😎"
 
     def current_focus(self):
         return [
